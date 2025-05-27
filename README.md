@@ -53,7 +53,8 @@ Currently focused on becoming a full-stack developer and aiming for big tech com
 ## 📫 Connect with Me
 
 - 📧 Email: [manasmayank440@gmail.com] 
-- 🌐 LinkedIn: [https://www.linkedin.com/in/manas-mayank-398384366] 
+- 🌐 LinkedIn: [https://www.linkedin.com/in/manas-mayank-398384366]
+- 🚀 Leetcode: [httpa://www.leetcode.com/in/manasmayank48765
 ---
 
 *Thanks for visiting my profile! Let's build something awesome together.* 🌟
