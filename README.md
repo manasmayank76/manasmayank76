@@ -1,6 +1,8 @@
 # 🚀 Hey, I'm Manas Mayank! 👋
 
 Welcome to my GitHub Profile!
+I'm passionate about software development, technology, and continuously learning to build great things. 💡  
+Currently focused on becoming a full-stack developer and aiming for big tech companies like Google. 💻🚀
 
 ## 🛠️ Tech Stack & Skills
 
@@ -19,8 +21,6 @@ Welcome to my GitHub Profile!
 - ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git)
 - ![GitHub](https://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)
 - ![VS Code](https://img.shields.io/badge/VSCode-blue?style=flat-square&logo=visualstudiocode)
-# Manas-Mayank-
-personal collection of coding exercises, projects, and experiments — learning and growing with every commit.
 
 
 ### 🐍 Python
@@ -42,3 +42,19 @@ personal collection of coding exercises, projects, and experiments — learning 
 ### 🗄️ Databases
 - ![Database](https://img.shields.io/badge/DBMS-lightgrey?style=flat-square&logo=database)
 - Database Management Systems (DBMS)
+
+
+## 📊 GitHub Stats
+
+![Manas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=manasmayank76&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [manasmayank440@gmail.com] 
+- 🌐 LinkedIn: [https://www.linkedin.com/in/manas-mayank-398384366] 
+---
+
+*Thanks for visiting my profile! Let's build something awesome together.* 🌟
+
