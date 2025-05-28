@@ -54,7 +54,10 @@ Currently focused on becoming a full-stack developer and aiming for big tech com
 
 - 📧 Email: [manasmayank440@gmail.com] 
 - 🌐 LinkedIn: [https://www.linkedin.com/in/manas-mayank-398384366]
-
+   🧑‍💻 Sololearn:[https://sololearn.com/profile/manasmayank]
+  🌐replict: [https://replict.com/manasmayank4876)
+   🧠leetcode :[htttps://leetcode.com/manasmayank]
+  
 ---
 
 *Thanks for visiting my profile! Let's build something awesome together.* 🌟
