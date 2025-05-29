@@ -1,8 +1,6 @@
 # 🚀 Hey, I'm Manas Mayank! 👋
 
 Welcome to my GitHub Profile!
-I'm passionate about software development, technology, and continuously learning to build great things. 💡  
-Currently focused on becoming a full-stack developer and aiming for big tech companies like Google. 💻🚀
 
 ## 🛠️ Tech Stack & Skills
 
