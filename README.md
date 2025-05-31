@@ -51,7 +51,7 @@ Welcome to my GitHub Profile!
 ## 📫 Connect with Me
 
 - 📧 Email: [manasmayank440@gmail.com] 
-- 🌐 LinkedIn: [https://www.linkedin.com/in/manas-mayank-398384366]
+  
 
 *Thanks for visiting my profile! Let's build something awesome together.* 🌟
 
